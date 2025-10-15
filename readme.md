@@ -1,12 +1,11 @@
 # 人工知能ゼミ
 
-1. 導入（AIZemi01.pdf）
-2. 対話型人工知能を使う（AIZemi02.pdf）
+1. 導入（[資料](https://github.com/KazuhisaFujita/AI_Zemi/blob/main/AIZemi01.pdf)）
+2. 対話型人工知能を使う（[資料](https://github.com/KazuhisaFujita/AI_Zemi/blob/main/AIZemi02.pdf)）
 3. プロンプトエンジニアリング([資料](https://www.docswell.com/s/k_fujita/5YWJWD-2024-01-19-233228))
-4. プロンプトエンジニアリング演習
-5. プロンプトエンジニアリング演習
-6. プロンプトエンジニアリング演習、人工知能に過去問を解かせる
-7. 人工知能に過去問を解かせる
+4. プロンプトエンジニアリング演習([演習課題](https://github.com/KazuhisaFujita/AI_Zemi/blob/main/practices.md))
+5. 人工知能に過去問を解かせる
+6. 人工知能に過去問を解かせる
 7. 人工知能に過去問を解かせる
 8. 人工知能に過去問を解かせる （発表会）
 9. 人工知能と小論文を書く
